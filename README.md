@@ -10,7 +10,6 @@ GitHub-Explorer
 <p align="center">
  <a href="#Technologies">Technologies</a> • 
  <a href="#Get-Started">Get started</a> • 
- <a href="#Documentation">Documentation</a> •
  <a href="#Developer">Developer</a>
 </p>
 <br>
